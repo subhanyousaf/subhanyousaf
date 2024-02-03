@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhan Yousaf</h1>
-<h3 align="center">A passionate frontend developer from Pakistan who loves clicks his keyboard for a living.</h3>
+<h3 align="center">A passionate full-stack developer from Pakistan who loves clicks his keyboard for a living.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanyousaf&label=Profile%20views&color=0e75b6&style=flat" alt="subhanyousaf" /> </p>
 
