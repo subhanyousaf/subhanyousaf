@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanyousaf&label=Profile%20views&color=0e75b6&style=flat" alt="subhanyousaf" /> </p>
 
-- 🔭 I’m currently working on [Car Nilami](https://github.com/BidWheels)
+- 🔭 I’m currently working on [Car Nilami](https://github.com/carnilami)
 
 - 🌱 I’m currently learning **React Native & GO**
 
 - 👯 I’m looking to collaborate on **React.JS, Next.JS, Java, Node.JS, Express.JS, Typescript, MongoDB, MYSQL Projects**
 
-- 📫 How to reach me **subhanyousaf@protonmail.com**
+- 📫 How to reach me **subhan@carnilami.com**
 
 - ⚡ Fun fact **I love working with tailwindcss.**
 
